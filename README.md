@@ -76,7 +76,7 @@ src/main/java/com/leetcode/leetcode/
 
 ### 🔮 V2 System Motivation
 
-![V2 System Overview](assets/v2-system.png)
+![V2 System Overview](assets/V2-SYSTEM.png)
 
 ---
 
