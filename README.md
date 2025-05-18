@@ -48,6 +48,40 @@ src/main/java/com/leetcode/leetcode/
 └── JudgeService/         # Code Execution Engine
 ```
 
+## 🖼️ Preview Screenshots
+
+### 📡 Problem Route API
+
+![Problem Route](assets/problem-route.png)
+
+### 🧾 Problem with ID
+
+![Problem with ID](assets/Problem_With_Id.png)
+
+### 🧪 Test Case API
+
+![Test Case API](assets/testCase.png)
+
+### 📤 Code Submission API
+
+![Code Submission](assets/code-submit.png)
+
+### 🖥️ Main Application + React UI
+
+![Main Application](assets/Test_Leetcode.png)
+
+### 🧵 Terminal – Spring Boot Startup
+
+![Terminal Startup](assets/terminal.png)
+
+### 🔮 V2 System Motivation
+
+![V2 System Overview](assets/v2-system.png)
+
+---
+
+
+
 ## API Endpoints
 1. Authentication:
    - POST `/api/**` - Public endpoints for authentication
