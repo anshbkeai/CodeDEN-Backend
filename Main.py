@@ -1,1 +1,3 @@
-// Your code here
+
+int  n  =  input("");
+print(n)
